@@ -1,0 +1,11 @@
+num1=int(input())
+num2=float(input())
+num3=input()
+num = num1 - num2
+print(num)
+print(type(num))
+print(type(num3))
+print(num1)
+print(type(num1))
+print(num2)
+print(type(num2))
